@@ -15,3 +15,6 @@ Four datasets were used in this study, namely:
 2. Country geographical classification: UNSD — Methodology.xlsx 
 3. Country population: WPP2019_POP_F01_1_TOTAL_POPULATION_BOTH_SEXES.xlsx
 4. Country income: Income.xlsx
+
+## Instructions for use
+Detailed step-by-step explanation of the R codes is available from the Rmarkdown html. Outputs created by this programme for the study are available in the output folder.
