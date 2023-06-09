@@ -17,4 +17,4 @@ Four datasets were used in this study, namely:
 4. Country income: Income.xlsx
 
 ## Instructions for use
-Detailed step-by-step explanation of the R codes is available from the Rmarkdown html. Outputs created by this programme for the study are available in the output folder.
+Detailed step-by-step explanation of the R codes is available from https://adrienneylc.github.io/Gabapentinoids/. Outputs created by this programme for the study are available in the output folder.
