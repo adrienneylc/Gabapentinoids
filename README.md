@@ -11,7 +11,7 @@ Platform: x86_64-w64-mingw32/x64 (64-bit)
 The demo of the input data can be found in the data folder, where the data structures and a synthetic demo of the inputs are provided. Before running the preprocessing codes, make sure the input data format is same to the provided input demo.
 
 Four datasets were used in this study, namely:
-1. MIDAS drug sales data
-2. Country geographical classification 
-3. Country population
-4. Country income
+1. MIDAS drug sales data: demo.csv
+2. Country geographical classification: UNSD — Methodology.xlsx 
+3. Country population: WPP2019_POP_F01_1_TOTAL_POPULATION_BOTH_SEXES.xlsx
+4. Country income: Income.xlsx
