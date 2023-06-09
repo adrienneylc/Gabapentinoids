@@ -1,6 +1,6 @@
 # Gabapentinoids
 ## Introduction
-This repository contains R codes used in a medicaiton consumption trend study titled, "Gabapentinoid consumption in 65 countries and regions from 2008 to 2018 a longitudinal trend study". The R codes included here were used to clean and preprocess teh data, perform statistical analyses, and generate visualisations of the results. These codes are intended to provide transparency and repdoucibility of the study results, and can be used as a reference for similar studies in the future. Please refer to the documentation in the repository for furhter information on the data used, methods employed, and results obtained. This readme file explains the specification of the R codes. 
+This repository contains R codes used in a medication consumption trend study titled, "Gabapentinoid consumption in 65 countries and regions from 2008 to 2018 a longitudinal trend study". The R codes included here were used to clean and preprocess the data, perform statistical analyses, and generate visualisations of the results. These codes are intended to provide transparency and reproducibility of the study results, and can be used as a reference for similar studies in the future. Please refer to the documentation in the repository for furhter information on the data used, methods employed, and results obtained. This readme file explains the specification of the R codes. 
 
 ## System requirements
 R version 4.0.4 (2021-02-15) -- "Lost Library Book"
